@@ -2,7 +2,20 @@
 
 Building a **comprehensive, reusable, and continuously improving security assurance framework** for the **open RISC‑V hardware–software ecosystem**.
 
-We develop and integrate complementary techniques across the stack -- **RTL <-> SoCs <-> firmware <-> OS/runtime <-> TEEs <-> toolchains <-> applications** -- to systematically discover, validate, localize, mitigate, and prevent the reintroduction of vulnerabilities.
+<p align="center">
+  <img src="logo.png" />
+</p>
+
+We develop and integrate complementary techniques across the stack
+- RTL 
+- SoCs 
+- Firmware 
+- OS/runtime
+- TEEs 
+- Toolchains 
+- Applications
+
+to systematically discover, validate, localize, mitigate, and prevent the reintroduction of vulnerabilities.
 
 ---
 
