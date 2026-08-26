@@ -1,4 +1,4 @@
-# [RISCue-V] Open RISC‑V Security Assurance (POSES Track 3)
+# [RISCue-V] Open RISC‑V Security Assurance
 
 Building a **comprehensive, reusable, and continuously improving security assurance framework** for the **open RISC‑V hardware–software ecosystem**.
 
